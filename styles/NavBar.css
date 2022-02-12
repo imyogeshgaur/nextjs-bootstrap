@@ -1,0 +1,13 @@
+a{
+    color:white;
+    text-decoration: none;
+    margin-right: 2rem;
+}
+
+a:hover{
+    color:red;
+}
+
+ul{
+    padding:0.4rem;
+}
